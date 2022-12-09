@@ -1,0 +1,165 @@
+.navbar-brand.w-100 img {
+    height: auto;
+    width: 200px;
+}
+footer.bg-navy.text-inverse .widget img.mb-4 {
+    height: auto;
+    width: 200px;
+    filter: invert(1);
+}
+
+.mythemes figure img{
+    height:245px !important;
+    
+}
+.meuseum{
+    padding: 2px 2px;
+}
+
+.compress-desc h3{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 70px;
+}
+.compress-desc p{
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+}
+.button-wrapper {
+    text-align: center;
+}
+
+/* help-compress-section */
+/* start */
+section.help-compress-section {
+    padding-top: 80px;
+}
+.help-compress-section .help-compress-desc h1{
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.help-compress-section .help-compress-desc h2{
+    font-size: 40px;
+    color: #000;
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.help-compress-section .help-compress-desc h3{
+    font-size: 25px;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.help-compress-section .help-compress-desc h4{
+    font-size: 20px;
+    color: #000;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.help-compress-section .help-compress-desc h5{
+    font-size: 30px;
+    color: #000;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.help-compress-section .help-compress-desc p{
+    font-size: 16px;
+    color: #000;
+    padding-top: 10px;
+    font-weight: 400;
+}
+.help-compress-section .compress-exactly-text img{
+    width: 30%;
+    text-align: center !important;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.help-compress-section .help-exactly-text img{
+    width: 60%;
+    text-align: center !important;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+
+.compress-exactly-text{
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+}
+.help-exactly-text{
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+}
+
+.help-compress-section .work-online-compress h1{
+    color: #000;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 20px;
+    }
+
+    .work-online-compress ul li{
+        list-style: none;
+        color: #000;
+        font-weight: 400;
+      }
+      .work-online-compress ul li span {
+        border-bottom: 2px solid #317bf9;
+      }
+
+.help-compress-section .work-online-compress li a{
+    color: #000;
+    font-weight: 600;
+}
+
+section.related-features {
+    padding: 150px 0px;
+}
+
+.related-features .laptop-desc img{
+   width: c;
+}
+.related-features .related-desc-help h2{
+    text-align: center;
+    font-size: 50px;
+    color: #000;
+    font-weight: 600;
+}
+.related-features .related-desc-help li{
+    font-size: 16px;
+    list-style: inside;
+    color: #000;
+    font-weight: 400;
+}
+h1.good-star {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+section.problem-solving-section {
+    margin: 50px 0 50px;
+    padding: 20px 0;
+}
+.help-compress-section .help-compress-desc h6{
+    font-weight: 400;
+    text-align: center;
+}
+
+.problem-solving-section{
+    background-color: #fff8ef!important;
+  }
